@@ -7,7 +7,7 @@
 
 - 🔭 I'm a student and Web developer.
 
-- 🌱  I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
+- 🌱 I'm constantly learning new techs and updating my knowledge. Also, I really enjoy attending tech related events.
 
 - 🎣  I love watching and playing CS:GO
 
