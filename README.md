@@ -5,7 +5,7 @@
 
 ### I am Lucas Sá
 
-- 🔭 I'm a student and Web developer.
+- 🔭 I'm a student and backend developer.
 
 - 🌱 I'm constantly learning new techs and updating my knowledge. Also, I really enjoy attending tech related events.
 
